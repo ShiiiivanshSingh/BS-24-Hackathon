@@ -1,6 +1,6 @@
 # Epicentre lens 🌱
 
-
+this is beta page
 Welcome to _Epicentre Lens_! 🎉  <br>
 Real-Time Disaster Prediction and Awareness Platform <br>
 EPICENTERLENS is a cutting-edge disaster prediction platform designed to keep communities informed, prepared, and safe.<br> By combining advanced predictive technology with real-time data analysis, EPICENTERLENS provides crucial information about impending natural disasters, such as earthquakes, storms, wildfires, and volcanic eruptions.
