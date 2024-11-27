@@ -32,6 +32,8 @@ Any suggestions are Welcome!<br>
 Contact Me At {Discord}: <br>
 shivanshpratapsingh [578111503891169331]
 
+
+
 The Link To The Website: 🌐 [Click Here](https://bit.ly/3YHZERZ)
 
 Or Alternatively  Clone this repository to your local machine:
@@ -41,5 +43,14 @@ git clone https://github.com/ShiiiivanshSingh/BS-24-Project
 ```
 
 --- 
+
+
+Beta Preview:
+![image](https://github.com/user-attachments/assets/694b7ec8-2c83-49fa-8a02-cabbbe5fd05f)
+![image](https://github.com/user-attachments/assets/ef9b346d-3cac-4a6f-bf1c-d133f333b9b3)
+![image](https://github.com/user-attachments/assets/290035ad-6d99-4f4e-8904-87dc2188a19f)
+![image](https://github.com/user-attachments/assets/675fbd4e-091c-4857-b459-ee96a96249c5)
+![image](https://github.com/user-attachments/assets/5ad0c472-ccc4-485c-b76b-bae696c30671)
+
 
 Thanks<br> -Shivansh
